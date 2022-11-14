@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   homescreen  
-  <img src="homescreen.jpg" width="375px" alt="startpagina van de nike website met een grote header en verder producten">
+  <img src="homescreen.jpeg" width="375px" alt="startpagina van de nike website met een grote header en verder producten">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="productpagina.jpg" width="375px" alt="productpagina waar een gekozen product te zien is">
+  <img src="productpagina.jpeg" width="375px" alt="productpagina waar een gekozen product te zien is">
  
 </details>
 
