@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.nike.com/nl/?cp=63928816257_search_%7cnike%7c10582771586%7c104693151076%7ce%7cc%7cNL%7cpure%7c452284024734&ds_rl=1252249&gclid=CjwKCAiA68ebBhB-EiwALVC-Nt0xxDHT8UAL11rxHfiY8RdzYIfTiHJ5XO2I2lDIXD-xG1ezyaMmKRoCKQcQAvD_BwE&gclsrc=aw.ds
-
+  https://www.nike.com/nl/
+  
   #### Screenshot(s) van de eerste pagina (small screen): 
   homescreen  
-  <img src="homescreen.jpg" width="375px" alt="startpagina van de nike website met een grote header en verder producten">
+  <img src="images/homescreen.jpg" width="375px" alt="startpagina van de nike website met een grote header en verder producten">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="productpagina.jpg" width="375px" alt="productpagina waar een gekozen product te zien is">
+  <img src="images/productpagina.jpg" width="375px" alt="productpagina waar een gekozen product te zien is">
  
 </details>
 
