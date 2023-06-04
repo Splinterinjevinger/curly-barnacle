@@ -1,0 +1,54 @@
+button {
+
+    background-color: lightblue;
+    text-decoration: darkslategray;
+    position: absolute;
+    border-radius: 5em;
+    top: 88%;
+    left: 50%;
+    right: 50%;
+    height: 3em;
+    width: 10em;
+    border: none;
+    color: darkslategray;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+}
+/*bron(box-shadow):https://box-shadow.dev/*/
+
+img {
+    width: 20em; 
+    height: auto; /* Hoogte wordt automatisch geschaald op basis van de breedte */
+    position: absolute; /* Absolute positionering voor exacte plaatsing */
+    bottom: 15em; /* Onderkant van de afbeelding wordt op de bodem van de container geplaatst */
+    left: 50%; /* Horizontaal centreren op de x-as */
+    transform: translateX(-50%); /* Horizontaal verschuiven naar links met 50% van de eigen breedte */
+    transform-origin: bottom center; /* Transformatie-oriëntatie wordt ingesteld op de onderkant van de afbeelding en het midden van de afbeelding */
+
+}
+/*bron(transform-origin):https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin*/
+
+
+
+progress {
+    height: 2em;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    right: 50%;
+
+}
+
+
+body {
+    background-image: url('background_billy.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+h1 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+}
